@@ -1,6 +1,6 @@
-## Your Name
+## Szilvi Horvath
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Career changer, from accounts to tech. I am living my dream of learning to code and becoming a software engineer through the Makers Apprenticeship.
 
 ## Skills
 
@@ -23,28 +23,30 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Apprenticeship - employed by Capgemini UK (November 2018 - November 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec
 
-#### Your University / College (start_date to end_date)
+#### University of Szeged (Hungary) / (September 2006 to June 2010)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Philologist in English and American Studies
+- BA Honours degree
 
-#### Any other qualifications
+#### i-to-i TEFL (2013)
+
+- Teaching English as a Foreign Language (TEFL) 
+- Teaching English as a Second or Other Language (TESOL) Certificate
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**SohoFrames Ltd** (March 2017 to September 2018)    
+*Company Administrator and Book-keeper*  
+**Master Auto Glass Ltd** (May 2014 to March 2017)   
+*Purchase Ledger Administrator* 
+**Axa Claims Services (Axa Direct and Swiftcover)** (November 2011 to May 2014)
+*Advanced Claims Advisor*
