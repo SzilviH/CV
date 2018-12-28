@@ -47,6 +47,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **SohoFrames Ltd** (March 2017 to September 2018)    
 *Company Administrator and Book-keeper*  
 **Master Auto Glass Ltd** (May 2014 to March 2017)   
-*Purchase Ledger Administrator* 
-**Axa Claims Services (Axa Direct and Swiftcover)** (November 2011 to May 2014)
+*Purchase Ledger Administrator*  
+**Axa Claims Services (Axa Direct and Swiftcover)** (November 2011 to May 2014)    
 *Advanced Claims Advisor*
